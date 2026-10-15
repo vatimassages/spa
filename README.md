@@ -5,7 +5,7 @@ Aplikasi web **Vati Massage Spa** yang dapat diakses oleh **Owner (admin)**, **T
 - **Frontend**: HTML/CSS/JS murni (statik — siap di-hosting di **GitHub Pages**)
 - **Backend**: **Google Apps Script** (REST API) + **Google Sheets** sebagai database
 - **Menu**: Hamburger / Navigation Drawer (off-canvas) untuk semua peran
-- **Bahasa**: Indonesia
+- **Bahasa**: Indonesia.
 
 ---
 
