@@ -2,5 +2,4 @@
 
 ---
 
-## Sedang perbaikan SISTEM
-## Perbaikan sistem setiap pukul 23.00-00.00
+## Sedang perbaikan SISTEM. Perbaikan sistem setiap pukul 23.00-00.00
